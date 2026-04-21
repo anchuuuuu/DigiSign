@@ -1,0 +1,7 @@
+__pycache__/
+gesture_dataset/
+MP_Data/
+*.h5
+*.pkl
+.DS_Store
+*.pyc
